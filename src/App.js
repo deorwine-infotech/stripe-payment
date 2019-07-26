@@ -11,7 +11,7 @@ function App() {
       <Checkout />
     </div>
     <div className="col-md-6">
-      <h4>Custom Stripe-Style:</h4>
+      <h4>Custom Stripe-Style: </h4>
       <CustomCheckout />
     </div>
     </div>
